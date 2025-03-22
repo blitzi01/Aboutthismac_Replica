@@ -15,7 +15,8 @@ In the foldere where the python file is add youre image as a png with the name "
 
 # Required libarys: PyQt5,psutil
 
-
+# Install
+Just download the release
 
 # Known issues:
 Both:</br>
