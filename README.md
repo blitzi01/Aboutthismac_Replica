@@ -20,6 +20,7 @@ Just download the release
 
 # Known issues:
 Both:</br>
+More info button looking wired in darkmode.</br>
 Image somethimes not showing up.</br>
 Ram showing 1 gb less then the acctual ram.</br>
 Chip not showing correctly.</br>
